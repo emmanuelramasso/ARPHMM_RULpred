@@ -17,6 +17,6 @@ The idea of including partial knowledge on states is from [1] and [2] applied to
 
 [2] Autoregressive Hidden Markov Models with partial knowledge on latent, space applied to aero-engines prognostics, Pablo Juesas, Emmanuel Ramasso, Sébastien Drujont, Vincent Placet,  arxiv https://arxiv.org/abs/2105.00211, 2024.
  
-[3] Ramasso, E., Butaud, P., Jeannin, T., Sarasini, F., Placet, V., Godin, N., ...Gabrion, X. (2020). Learning the representation of raw acoustic emission signals by direct generative modelling and its use in chronology-based clusters identification. Eng. Appl. Artif. Intell., 90, 103478. doi: 10.1016/j.engappai.2020.103478
+[3] Ramasso, E., Butaud, P., Jeannin, T., Sarasini, F., Placet, V., Godin, N., ...Gabrion, X. (2020). Learning the representation of raw acoustic emission signals by direct generative modelling and its use in chronology-based clusters identification. Eng. Appl. Artif. Intell., 90, 103478. https://doi.org/10.1016/j.engappai.2020.103478
 
 
